@@ -1,0 +1,1 @@
+plink -i "C:\Users\Justin J\.ssh\ilo_poweradmin.ppk" poweradmin@10.110.110.3 "power off"
