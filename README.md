@@ -1,5 +1,5 @@
 # hp_ilo_control
-Control power of HP servers using SSH/Plink by sending power commands through iLO. Works great for home labs where you want to easily shutdown and start-up your loud power hungry servers. I use it to control power to my VMWare home environment.
+Control power of HP servers using SSH/Plink by sending power commands through iLO. Works great for home labs where you want to easily shutdown and start-up your loud, power hungry servers. I use it to control power to my VMWare home environment.
 
 Best practice would be to setup a dedicated user for power management in iLO. Im generating SSH Public/Private key through Putty Key Generator and installing them in iLO for the user account.
 
